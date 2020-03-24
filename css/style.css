@@ -14,8 +14,10 @@
     color: #fff;
 }
 
-.img-carousel{
-    height: 550px;
+@media(min-width: 960px){
+    .img-carousel{
+        height: 550px;
+    }
 }
 
 .img-card {
