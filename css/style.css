@@ -1,0 +1,28 @@
+.my-nav {
+    background-color: #6C63FF !important;
+}
+
+.my-nav i{
+    color: #fff;
+}
+
+.my-nav a{
+    color: #fff;
+}
+
+.navbar-toggler-icon {
+    color: #fff;
+}
+
+.img-card {
+    height: 231px;
+}
+
+.color {
+   color:  #6C63FF;
+}
+
+.btn-color {
+    background-color: #6C63FF;
+    color: #fff;
+}
