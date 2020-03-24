@@ -14,12 +14,6 @@
     color: #fff;
 }
 
-@media(min-width: 960px){
-    .img-carousel{
-        height: 550px;
-    }
-}
-
 .img-card {
     height: 231px;
 }
